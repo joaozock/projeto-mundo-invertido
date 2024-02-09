@@ -11,4 +11,4 @@
 
 ```
 
-Projeto para praticar HTML, CSS e JavaScript.
+Landing page about the Stranger Things series, project to practice HTML, CSS and JavaScript.
